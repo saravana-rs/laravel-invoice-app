@@ -68,7 +68,7 @@ Then run migrations:
 php artisan migrate
 ```
 
-### 5. Configure Mail (Optional)
+### 5. Configure Mail 
 
 For local testing, you can use [Mailtrap](https://mailtrap.io) or Mailpit.
 
