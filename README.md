@@ -58,6 +58,8 @@ DB_PORT=3306
 DB_DATABASE=your_db_name
 DB_USERNAME=root
 DB_PASSWORD=
+
+QUEUE_CONNECTION=database
 ```
 
 Then run migrations:
